@@ -26,6 +26,7 @@
 - 🌱 Currently learning React/Laravel/Inertia
 - 🎯 Goal: Master Full-Stack Developer
 - ⚡ Fun fact: Former Top 12 Global Fanny
+- 👰🏻‍♀️ Loveyyyy: Jewel *********
 
 ---
 
