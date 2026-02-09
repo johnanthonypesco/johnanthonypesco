@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Anthony&fontAlign=50&fontAlignY=35&desc=Building%20cool%20things%20with%20code%20%E2%9C%A8&descAlign=50&descAlignY=55&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=John%20Anthony%20Pesco&fontAlign=50&fontAlignY=35&desc=Building%20cool%20things%20with%20code%20%E2%9C%A8&descAlign=50&descAlignY=55&color=gradient" />
 
   <p>
     <a href="https://github.com/johnanthonypesco">
