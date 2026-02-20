@@ -33,14 +33,38 @@
 
 <div align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java&perline=7" />
-  <br />
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,tailwind,bootstrap&perline=7" />
-  <br />
-  <!-- Databases & DevOps -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,express,mysql,mongodb,cs,git,github,unity&perline=7" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+<table border="0px">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=johnanthonypesco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&v=2" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sdeg77&layout=compact&theme=tokyonight&v=2" />
+    </td>
+  </tr>
+</table>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=SDEG77&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+# 🏆 Activity Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnanthonypesco&theme=github-dark" />
 
 </div>
 
@@ -56,13 +80,4 @@
 
 ## 🤝 Let’s Connect
 
-- Portfolio: https://pescojohnanthony.vercel.app
-- Email: pescojohnanthony@gmail.com
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
-
-</div>
+[![My Portfolio](https://github.com/user-attachments/assets/4c18b393-5b96-4e75-82f0-a65a700af788)](https://pescojohnanthony.vercel.app)
