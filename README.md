@@ -48,13 +48,13 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=johnanthonypesco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&v=2" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johnanthonypesco&layout=compact&theme=tokyonight&v=2" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johnanthonypesco&layout=compact&theme=github-dark" />
     </td>
   </tr>
 </table>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=SDEG77&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=johnanthonypesco&theme=github-dark" />
 
 </div>
 
