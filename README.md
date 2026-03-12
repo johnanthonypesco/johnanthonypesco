@@ -80,4 +80,4 @@
 
 ## 🤝 Let’s Connect
 
-[![My Portfolio](https://github.com/user-attachments/assets/4c18b393-5b96-4e75-82f0-a65a700af788)](https://pescojohnanthony.vercel.app)
+[![My Portfolio](https://github.com/user-attachments/assets/07326dcd-b588-482b-88b8-8e2dcc6cebbb)](https://pescojohnanthony.vercel.app)
